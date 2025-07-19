@@ -1,0 +1,1 @@
+print('love is plp')  # This line is a placeholder and does not affect the calculator functionality.
